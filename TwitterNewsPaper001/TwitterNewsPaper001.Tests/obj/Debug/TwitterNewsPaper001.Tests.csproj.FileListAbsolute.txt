@@ -1,0 +1,16 @@
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\TwitterNewsPaper001.Tests.dll.config
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\TwitterNewsPaper001.Tests.dll
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\TwitterNewsPaper001.Tests.pdb
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\TwitterNewsPaper001.dll
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\TweetSharp.Next.dll
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\TweetSharp.Next.Fluent.dll
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\Hammock.ClientProfile.dll
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\TwitterNewsPaper001.pdb
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\TweetSharp.Next.pdb
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\TweetSharp.Next.Fluent.pdb
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\Hammock.ClientProfile.pdb
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\bin\Debug\Newtonsoft.Json.pdb
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\obj\Debug\TwitterNewsPaper001.Tests.dll
+c:\users\donald\documents\visual studio 2010\Projects\TwitterNewsPaper001\TwitterNewsPaper001.Tests\obj\Debug\TwitterNewsPaper001.Tests.pdb
